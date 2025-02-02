@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Orbitron';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Orbitron-Regular.ttf);
+  unicode-range: U+00-52F, U+1E00-1FFF, U+2200-22FF;
+}
+
+@font-face {
+  font-family: 'Oxanium';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/Oxanium-Regular.ttf);
+  unicode-range: U+00-52F, U+1E00-1FFF, U+2200-22FF;
+}
